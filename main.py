@@ -1,12 +1,9 @@
 import streamlit as st
-import numpy as np
-import pandas as pd
-from PIL import Image
 import time
 
-st.title('streamlit 超入門')
+st.title('streamlit 超絶な入門')
 
-st.write('Display Image')
+st.write('プログレスバーの表示')
 'start!!'
 
 latest_iteration = st.empty()
